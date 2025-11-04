@@ -1,0 +1,5 @@
+{
+  "name": "Riyadh Weather Forecaster",
+  "description": "A modern, AI-powered weather dashboard providing current conditions, a 16-day forecast, alerts, and trends for Riyadh, Saudi Arabia. The application uses Gemini to generate realistic, up-to-date weather data.",
+  "requestFramePermissions": []
+}
